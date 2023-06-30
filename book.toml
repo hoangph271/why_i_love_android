@@ -1,0 +1,6 @@
+[book]
+authors = ["Snêu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "why I love Android"
